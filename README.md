@@ -143,3 +143,4 @@ It also allowed me to strengthen my skills in data manipulation, database integr
 Project focus: Data Analytics | Customer Behavior | Business Intelligence | Data Visualization
 
 Technologies: Python · Pandas · PostgreSQL · SQL · Power BI
+https://www.youtube.com/watch?v=5PrZvPeUw60
